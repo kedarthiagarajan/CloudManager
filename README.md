@@ -121,6 +121,9 @@ Config:
           files:
             - /path/to/local/file4
 ```
+### 5. How To Run
+
+Clone this repository and then run `pip install .'` from the parent directory of the cloned repo. That will install cloudmanageron on your environment. Then run `cloudmanager -c <config_file> -o <output_file>` to run,
 
 ## Notes
 
